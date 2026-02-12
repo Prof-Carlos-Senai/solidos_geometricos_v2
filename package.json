@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "Carlos Roberto da Silva Filho",
   "license": "MIT",
-  "description": "Programa para cálculo de Sólidos Geométricos"
+  "description": "Programa para cálculo de Sólidos Geométricos",
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
 }
